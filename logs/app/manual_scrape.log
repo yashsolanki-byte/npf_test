@@ -1,0 +1,34 @@
+2026-03-20 19:10:10 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:11:53 - Run finished OK: C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University\Woxsen University_20-03-26.csv
+2026-03-20 19:17:43 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:17:57 - Run finished with no output path (check UI status).
+2026-03-20 19:18:28 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:20:50 - Run finished OK: C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University\Woxsen University_20-03-26.csv
+2026-03-20 19:21:20 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:21:46 - Run finished with no output path (check UI status).
+2026-03-20 19:22:02 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:31:47 - Run finished OK: C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University\Woxsen University_20-03-26.csv
+2026-03-20 19:39:36 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\20-03-26\Woxsen University
+2026-03-20 19:39:55 - Run aborted (manual scrape lead limit): Too many records (127,728 > limit 100,000). Reduce the From/To date range and run again.
+2026-03-23 12:47:23 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\23-03-26\Woxsen University
+2026-03-23 12:47:43 - Run aborted (manual scrape lead limit): Too many records (127,728 > limit 100,000). Reduce the From/To date range and run again.
+2026-03-23 12:47:52 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=True, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\23-03-26\Woxsen University
+2026-03-23 12:48:13 - Run finished with no output path (check UI status).
+2026-03-23 12:48:58 - Run started: institute='Woxsen University', 01-02-2026–15-02-2026, screenshot=True, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\23-03-26\Woxsen University
+2026-03-23 12:49:20 - Run finished OK: C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\screenshots\23-03-26\Woxsen University_23-03-26_124858.png
+2026-03-23 12:50:04 - Run started: institute='Woxsen University', 14-02-2026–15-02-2026, screenshot=False, output_dir=C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\23-03-26\Woxsen University
+2026-03-23 12:51:34 - Run finished OK: C:\Users\CollegeDunia\NPF WEB APP\npf-scraper-webapp\DATA_Scraped\manual\23-03-26\Woxsen University\Woxsen University_23-03-26.csv
+2026-03-23 13:05:45 - Run started: institute='Woxsen University', 22-03-26–23-03-26, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:06:11 - Run finished with no output path (check UI status).
+2026-03-23 13:06:17 - Run started: institute='Woxsen University', 22-03-26–23-03-26, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:06:24 - Run finished with no output path (check UI status).
+2026-03-23 13:06:46 - Run started: institute='Woxsen University', 22-03-26–23-03-26, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:06:52 - Run finished with no output path (check UI status).
+2026-03-23 13:07:57 - Run started: institute='Woxsen University', 22-02-26–23-02-26, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:08:05 - Run finished with no output path (check UI status).
+2026-03-23 13:08:20 - Run started: institute='Woxsen University', 22-02-2026–23-02-2026, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:08:44 - Run finished with no output path (check UI status).
+2026-03-23 13:08:57 - Run started: institute='Woxsen University', 22-02-2026–23-02-2026, screenshot=True, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:09:25 - Run finished OK: C:\Users\CollegeDunia\Downloads\Woxsen University_23-03-26_130857.png
+2026-03-23 13:12:20 - Run started: institute='Woxsen University', 22-03-2026–23-03-2026, screenshot=False, downloads_dir=C:\Users\CollegeDunia\Downloads
+2026-03-23 13:13:03 - Run finished OK: C:\Users\CollegeDunia\Downloads\Woxsen University_23-03-26.csv
